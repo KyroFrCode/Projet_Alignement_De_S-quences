@@ -20,9 +20,12 @@ Vous devez avoir python 3.x ou supérieur pour le faire fonctionner.
 ```bash
     python3 --version
 
-    #Si la commande ci-dessus fonctionne pas faire :
+    # Si la commande ci-dessus fonctionne pas faire :
     #sudo apt-get update
     #sudo apt-get install python3.6
+
+    # Installation des packages nécessaires au fonctionnement
+    pip install -r requirements.txt
 ```
 
 
