@@ -4,15 +4,6 @@
 Ce projet porte sur un problème de génomique : l’alignement de séquences. 
 
 Différents algorithmes et deux types de paradigmes de programmation sont utilisés : la programmation dynamique et la programmation impérative, pour résoudre le problème de l'alignement des séquences de deux génomes.
-## Installation
-
-Cloner le repo du projet.
-
-```bash
-  git clone https://github.com/KyroFrCode/Projet_Alignement_De_Sequences_Genomes.git
-  cd Projet_Alignement_De_Sequences_Genomes/code/
-```
-    
 ## Déploiement
 
 Vous devez avoir python 3.x ou supérieur pour le faire fonctionner.
@@ -29,6 +20,15 @@ Vous devez avoir python 3.x ou supérieur pour le faire fonctionner.
 ```
 
 
+## Installation
+
+Cloner le repo du projet.
+
+```bash
+  git clone https://github.com/KyroFrCode/Projet_Alignement_De_Sequences_Genomes.git
+  cd Projet_Alignement_De_Sequences_Genomes/code/
+```
+    
 ## Exécution du fichier test
 
 ```bash
